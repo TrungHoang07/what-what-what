@@ -15,4 +15,3 @@ def toBinary(n): #Chuyển đổi số thực về số nhị phân
 toBinary(sum)
 
 
-"""kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk"""

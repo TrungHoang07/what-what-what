@@ -13,3 +13,6 @@ def toBinary(n): #Chuyển đổi số thực về số nhị phân
         toBinary(n//2)
     print(n % 2, end='')
 toBinary(sum)
+
+
+"""kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk"""
